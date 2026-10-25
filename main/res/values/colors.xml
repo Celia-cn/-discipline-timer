@@ -1,0 +1,19 @@
+<resources>
+    <color name="primary_green">#43A047</color>
+    <color name="primary_dark">#2E7D32</color>
+    <color name="primary_light">#66BB6A</color>
+    <color name="accent">#A5D6A7</color>
+    <color name="text_primary">#1B2E1B</color>
+    <color name="text_secondary">#5F6F5F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="cream">#FFF9F3</color>
+    <color name="overlay_dark">#66000000</color>
+    <color name="btn_focus">#388E3C</color>
+    <color name="btn_focus_pressed">#2E7D32</color>
+    <color name="circle_btn">#E8F5E9</color>
+    <color name="glass_white">#D9FFFFFF</color>
+    <color name="glass_stroke">#40FFFFFF</color>
+    <color name="points_bg">#CC1B5E20</color>
+    <color name="page_bg">#F5FBF5</color>
+    <color name="digital_time">#FFFFFF</color>
+</resources>
